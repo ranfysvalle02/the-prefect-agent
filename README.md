@@ -1,3 +1,5 @@
+# The Prefect Agent
+
 **Introduction**
 
 The intersection of generative AI (GenAI) and workflow automation is rapidly reshaping the way businesses operate. By combining the intelligence of GenAI with the efficiency of workflow automation tools like Prefect, organizations can streamline processes, enhance decision-making, and drive innovation.
