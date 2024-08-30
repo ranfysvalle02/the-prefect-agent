@@ -12,21 +12,16 @@ Prefect is a powerful open-source workflow automation platform that simplifies t
 * **Scheduling:** Schedule workflows to run on a regular basis, triggered by events, or based on specific conditions.
 * **Error handling:** Implement robust error handling mechanisms to ensure workflows can recover from failures.
 
-### 3. **Scalability and Reliability:**
-* **Distributed execution:** Prefect can distribute tasks across multiple machines, allowing for efficient scaling to handle large workloads.
-* **Cloud integration:** Seamlessly integrate with cloud platforms like AWS, GCP, and Azure for scalable infrastructure.
-* **Resilience:** Built-in retry mechanisms and task state persistence ensure workflows can recover from failures and continue running.
-
-### 4. **Powerful Monitoring and Logging:**
+### 3. **Powerful Monitoring and Logging:**
 * **Real-time visibility:** Monitor workflow execution in real-time, tracking task status, progress, and performance metrics.
 * **Detailed logging:** Capture comprehensive logs for troubleshooting and analysis.
 * **Alerting:** Set up alerts to notify you of workflow failures or unexpected behavior.
 
-### 5. **Integration with Data Tools:**
+### 4. **Integration with Data Tools:**
 * **Data sources:** Connect to various data sources like databases, files, and APIs.
 * **Data transformations:** Perform data cleaning, transformation, and analysis using Prefect's built-in capabilities or external libraries.
 * **Data storage:** Store processed data in various formats and locations.
 
-### 6. **Community and Ecosystem:**
+### 5. **Community and Ecosystem:**
 * **Active community:** Benefit from a growing community of Prefect users who share knowledge and best practices.
 * **Extensive ecosystem:** Leverage a rich ecosystem of Prefect-compatible tools and libraries for specific use cases.
