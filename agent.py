@@ -168,6 +168,7 @@ class CustomAgent:
                 "input_to_process": input_to_process,
                 "process": ai_message["PROCESS"]
             })
+            return repo_info
         if ai_message.get("PROCESS") and ai_message.get("PROCESS") == "text_processing":
             input_to_process = ai_message["INPUT_TO_PROCESS"]
             txt_result = txt_processing(**input_to_process)
